@@ -1,3 +1,3 @@
-import led as le
+from testpkg import led as le
 
 le.Led()
